@@ -1,0 +1,2 @@
+CIID,CIIdentifier,relationDomain,relationType,relatedCIID,relatedCIIdentifier
+91,ci_identifier_string,Service,Supports,92,ci_id2_string
